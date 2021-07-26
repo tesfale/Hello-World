@@ -2,4 +2,4 @@
 Practice Repository
 
 
-This is tesfalem used to long distance runner
+This is tesfalem, used to long distance runner
